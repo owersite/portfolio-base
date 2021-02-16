@@ -3,7 +3,7 @@
 
 
 #### Notice:
-###### 404.html should basicly be your 404 page, it says "soon" like on 
+###### 404.html should basicly be your 404 page, it says "soon" like on https://zeenode.github.io/selfbot-site/404.html
 
 
 
